@@ -23,12 +23,21 @@ nav li{
 nav a{
   color: cyan;
   text-transform: uppercase;
-  font-size: 15px;
+  font-size: 20px;
 }
 nav a:hover{
   width: 100%;
   display:block;
-  background-color:navajowhite;
+  background-color:gray;
   position: static;
  
 } 
+h1{
+  float: left;
+  margin-left: 10px;
+  /* padding-top: 0.5px; */
+  color: navy;
+  background-color: cyan;
+  /* background-size: 10px; */
+  font-style: italic;
+}

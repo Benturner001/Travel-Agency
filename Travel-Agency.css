@@ -7,10 +7,10 @@ body{
   padding: 0;
   list-style: none;
 }
-/* .navbar ul{
+.navbar ul{
   
   display: flex;
-} */
+}
 /* nav li{
   display: inline-block;
   margin-left: 30px;

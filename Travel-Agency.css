@@ -11,7 +11,7 @@ body{
   
   display: flex;
 }
-/* nav li{
+nav li{
   display: inline-block;
   margin-left: 30px;
   padding-top: 20px;
@@ -19,7 +19,7 @@ body{
   position: sticky;
  
 
-} */
+}
 /* nav a{
   color: cyan;
   text-transform: uppercase;

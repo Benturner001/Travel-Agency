@@ -1,6 +1,7 @@
 body{
     margin: 0px;
     padding: 0px;
+    background-image: url("https://image.ibb.co/dkSHfA/background.jpg");
 }
 .navbar ul{
   margin:0;
@@ -29,7 +30,8 @@ nav a:hover{
   width: 100%;
   display:block;
   background-color:gray;
-  position: static;
+  position: relative;
+
  
 } 
 h1{
@@ -40,4 +42,13 @@ h1{
   background-color: cyan;
   /* background-size: 10px; */
   font-style: italic;
+}
+.EXPLORE{
+  text-align: center;
+  color:navy;
+  font-size: 30px;
+}
+h2{
+  color: cyan;
+  padding-top: 10px;
 }

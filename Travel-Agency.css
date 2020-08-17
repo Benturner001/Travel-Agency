@@ -26,6 +26,12 @@ nav a{
   text-transform: uppercase;
   font-size: 20px;
 }
+nav ul li a{
+  color: whitesmoke;
+  display: inline-block;
+  /* padding: 15px; */
+  
+}
 nav a:hover{
   width: 100%;
   display:block;
@@ -55,5 +61,5 @@ h3{
   
 }
 nav.active{
-
+color: green;
 }
